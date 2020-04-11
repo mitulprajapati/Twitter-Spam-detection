@@ -1,0 +1,2 @@
+# Twitter-Spam-detection
+The research project based on the detection of spammers on Twitter social media. Classification technique used for predicting spammers. Performance measured by the different machine learning algorithms and achieved the highest accuracy of 98%. The project goal was to analyse spammers behaviours from the dataset and proposed a classification model for prediction of spam or non-spam users. Python programming language and Nltk (Natural language toolkit), Scikit-learn, Pandas, Numpy, Matplotlib - libraries used for execution.
